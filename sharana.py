@@ -1,3 +1,4 @@
+#DELETE AN ELEMENT IN ALIST WITHOUT USING INBUILT FUNCTIONS
 list1=[11,21,31,91,99]
 element=101
 if position>len(list1):
